@@ -36,7 +36,7 @@
 ### Frameworks & Libraries 📦 :
 <br>
 <p align='center'>
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
