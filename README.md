@@ -61,7 +61,7 @@
 <p align='center'>
 
 <a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<img src="https://www.linkedin.com/in/chinmay-sonawane-38474019a/"></a>&nbsp;&nbsp;
 <a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
