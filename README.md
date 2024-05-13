@@ -5,7 +5,13 @@
 
 My name is Youssef and I work as a backend programmer
 
-Skills: HTML/ CSS / PHP / MYSQL / LARAVEL/Git&Github
+Skills:
+* HTML
+* CSS
+* PHP
+* MYSQL
+* LARAVEL
+* Git&Github
 
 - 🔭 I’m currently working on this page. 
 
