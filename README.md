@@ -18,14 +18,6 @@
 <br>
 
 
-
-## 3D Contribution Calendar 📅
-<br>
-<p align='center'>
-<img src="./profile-3d-contrib/profile-night-view.svg">
-</p>
-<hr>
-
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
@@ -33,7 +25,7 @@
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-<img src="[https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">&nbsp;&nbsp;
+<img src="[https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white]">&nbsp;&nbsp;
 </p>
 <br>
 
