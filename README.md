@@ -17,33 +17,9 @@
 </p>
 <br>
 
-## npm package - Profile card 📦 
-<br>
 
-> Run the following command to know more about me
 
-<br> 
 
-```
-npx chinmay29hub
-```
-
-<hr>
-<br>
-
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
 
 ## Most Used Languages 📚
 <br>
